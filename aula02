@@ -1,0 +1,26 @@
+README.md é um arquivo com extensão .md (Markdown) e Contém informações necessárias para entender o objetivo do
+projeto.Muitas vezes possuem algumas instruções de como usar, exemplos de aplicação, principais dúvidas
+entre outros.
+
+Sintaxe de escrita e formatação básica: https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Ícones: https://gist.github.com/rxaviers/7360908
+Modelos: https://github.com/kautukkundan/Awesome-Profile-README-
+templates
+
+É o primeiro arquivo que uma pessoa verá ao encontrar o
+projeto. Por isso, ele precisa ser breve, mas detalhado.
+● Isso fará com que seu projeto se destaque dos outros.
+Claro, não se esqueça de fazer um bom projeto.
+● Ele ajudará a priorizar as necessidades do projeto, quanto
+ao que precisa ser entregue e como fazer isso.
+● Escrevê-lo vai melhorar suas habilidades de escrita.
+
+A forma mais fácil de criar um README: https://readme.so/pt
+
+Enviando projetos locais para um repositório no GitHub
+Antes de iniciar, vamos criar um projeto
+fake, apenas com um arquivo .txt
+
+● Crio uma nova pasta - PrimeiroRepositorio
+● Crio um novo arquivo .txt
+● Adiciono qualquer texto nele (Só para teste)
