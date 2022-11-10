@@ -1,0 +1,19 @@
+Instale e Configure o git
+
+Pratique alguns comandos:
+
+git init 
+cria um novo sub-diretório chamado .git que contém todos os arquivos necessários
+para um repositório - um esqueleto.
+
+(Nenhum arquivo está sendo monitorado ainda.)
+
+git add -A
+
+git status
+
+git commit -m 'versão inicial'
+
+git log
+
+git commit --ammend
